@@ -3,7 +3,7 @@
 # How to Install?
 
 ```shell
-git clone https://github.com/wardviaene/jenkins-docker.git
+git clone https://github.com/jimyungkoh/jenkins-docker.git
 ```
 
 ```shell
